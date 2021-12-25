@@ -10,3 +10,17 @@ UnitIcons/Visionary Figure
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Sniper
+  rotate: false
+  xy: 104, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sapper
+  rotate: false
+  xy: 204, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
