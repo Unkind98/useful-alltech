@@ -1,0 +1,62 @@
+[
+	//Mods Units
+	{
+		"name": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Sniper",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Sniper",
+		"unitType": "Commando",
+		"range": 3,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		//"upgradesTo": "Machine Gun",
+		//"obsoleteTech": "Ballistics",
+		//"uniques": ["[+100]% Strength <vs [Land] units>"],
+		"uniques": ["[+200]% Strength <when attacking>",
+			"[+75]% Strength <vs [Land] units> <starting from the [Industrial era]>",
+			"[+75]% Strength <vs [Land] units> <starting from the [Modern era]>",
+			"[+75]% Strength <vs [Land] units> <starting from the [Atomic era]>",
+			"[+75]% Strength <vs [Land] units> <starting from the [Information era]>"]
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sapper",
+		"unitType": "Commando",
+		"range": 1,
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Dynamite",
+		//"upgradesTo": "Machine Gun",
+		//"obsoleteTech": "Ballistics",
+		"uniques": ["May enter foreign tiles without open borders",
+			"[+999]% Strength <vs cities>",
+			"[+999]% Strength <vs [Armor] units> <when attacking>"]
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Visionary Figure",
+		"unitType": "Civilian",
+		"strength": 15,
+		"movement": 3,
+		//"requiredTech": "Future Tech",
+		//"cost": 500,
+		"uniques": ["Bonus for units in 2 tile radius 15%", "May enter foreign tiles without open borders",
+			"Can construct [Landmark]",
+			"Can be purchased with [Culture] [in capital]",
+			"Unbuildable"]
+	}
+]
