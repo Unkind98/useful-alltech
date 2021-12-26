@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Quick Operation",
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes": ["Commando"]
+	},
+	{
+		"name": "First Aid Kit",
+		"uniques": ["[+5] HP when healing in [Foreign Land] tiles"],
+		"unitTypes": ["Commando"]
+	},
+	{
+		"name": "Professionalism",
+		"uniques": ["Can move after attacking"],
+		"unitTypes": ["Commando"]
+	},
+	{
+		"name": "Veteran",
+		"uniques": ["[+50]% Strength <when defending>"],
+		"unitTypes": ["Commando"]
+	}	
+]

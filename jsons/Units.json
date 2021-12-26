@@ -24,7 +24,7 @@
 		//"upgradesTo": "Machine Gun",
 		//"obsoleteTech": "Ballistics",
 		//"uniques": ["[+100]% Strength <vs [Land] units>"],
-		"uniques": ["[+200]% Strength <when attacking>",
+		"uniques": ["[+200]% Strength <when attacking>","Can only attack [Land] units"
 			"[+75]% Strength <vs [Land] units> <starting from the [Industrial era]>",
 			"[+75]% Strength <vs [Land] units> <starting from the [Modern era]>",
 			"[+75]% Strength <vs [Land] units> <starting from the [Atomic era]>",

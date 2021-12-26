@@ -1,25 +1,53 @@
+
 game.png
-size: 404, 104
+size: 204, 404
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Visionary Figure
+ UnitIcons/Visionary Figure
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sniper
+ UnitIcons/Sniper
   rotate: false
   xy: 104, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sapper
+ UnitIcons/Sapper
   rotate: false
   xy: 204, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ UnitPromotionIcons/Professionalism
+  xy: 4, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ UnitPromotionIcons/Quick Operation
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ UnitPromotionIcons/Veteran
+  rotate: false
+  xy: 204, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ UnitPromotionIcons/First Aid Kit
+  rotate: false
+  xy: 304, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
