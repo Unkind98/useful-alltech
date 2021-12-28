@@ -21,14 +21,16 @@
 		"rangedStrength": 30,
 		"cost": 225,
 		"requiredTech": "Rifling",
-		//"upgradesTo": "Machine Gun",
-		//"obsoleteTech": "Ballistics",
-		//"uniques": ["[+100]% Strength <vs [Land] units>"],
-		"uniques": ["[+200]% Strength <when attacking>","Can only attack [Land] units"
-			"[+75]% Strength <vs [Land] units> <starting from the [Industrial era]>",
-			"[+75]% Strength <vs [Land] units> <starting from the [Modern era]>",
-			"[+75]% Strength <vs [Land] units> <starting from the [Atomic era]>",
-			"[+75]% Strength <vs [Land] units> <starting from the [Information era]>"]
+		"uniques": ["[+33]% Strength <when attacking>","Can only attack [Land] units",
+			"[+75]% Strength <vs [Mounted] units> <starting from the [Industrial era]>",
+			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Industrial era]>",
+			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Industrial era]>",
+			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Modern era]>",
+			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Modern era]>",
+			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Atomic era]>",
+			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Atomic era]>",
+			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Information era]>",
+			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Information era]>"]
 		"attackSound": "shot"
 	},
 	{
@@ -50,7 +52,6 @@
 	{
 		"name": "Visionary Figure",
 		"unitType": "Civilian",
-		"strength": 15,
 		"movement": 3,
 		//"requiredTech": "Future Tech",
 		//"cost": 500,
