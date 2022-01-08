@@ -25,6 +25,20 @@ repeat: none
   orig: 100, 100
   offset: 0, 0
   index: -1
+ UnitPromotionIcons/Sniper Traits
+  rotate: false
+  xy: 104, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ UnitPromotionIcons/Sapper Traits
+  rotate: false
+  xy: 204, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
  UnitPromotionIcons/Professionalism
   xy: 4, 104
   size: 100, 100
@@ -52,3 +66,4 @@ repeat: none
   orig: 100, 100
   offset: 0, 0
   index: -1
+ 

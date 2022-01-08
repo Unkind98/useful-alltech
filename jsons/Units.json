@@ -21,7 +21,8 @@
 		"rangedStrength": 30,
 		"cost": 225,
 		"requiredTech": "Rifling",
-		"uniques": ["[+33]% Strength <when attacking>","Can only attack [Land] units",
+		"promotions": ["Sniper Traits"],
+		/*"uniques": ["[+33]% Strength <when attacking>","Can only attack [Land] units",
 			"[+75]% Strength <vs [Mounted] units> <starting from the [Industrial era]>",
 			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Industrial era]>",
 			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Industrial era]>",
@@ -30,7 +31,7 @@
 			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Atomic era]>",
 			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Atomic era]>",
 			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Information era]>",
-			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Information era]>"]
+			"[+75]% Strength <vs [Ranged Gunpowder] units> <starting from the [Information era]>"],*/
 		"attackSound": "shot"
 	},
 	{
@@ -42,18 +43,17 @@
 		"rangedStrength": 30,
 		"cost": 225,
 		"requiredTech": "Dynamite",
-		//"upgradesTo": "Machine Gun",
-		//"obsoleteTech": "Ballistics",
-		"uniques": ["May enter foreign tiles without open borders",
+		"promotions": ["Sapper Traits"],
+		/*"uniques": ["May enter foreign tiles without open borders",
 			"[+999]% Strength <vs cities>",
-			"[+999]% Strength <vs [Armor] units> <when attacking>"]
+			"[+999]% Strength <vs [Armor] units> <when attacking>"],*/
 		"attackSound": "tankshot"
 	},
 	{
 		"name": "Visionary Figure",
 		"unitType": "Civilian",
 		"movement": 3,
-		//"requiredTech": "Future Tech",
+		"requiredTech": "Stealth",
 		//"cost": 500,
 		"uniques": ["Bonus for units in 2 tile radius 15%", "May enter foreign tiles without open borders",
 			"Can construct [Landmark]",
