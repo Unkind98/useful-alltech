@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "First Aid Kit",
-		"uniques": ["[+5] HP when healing in [Foreign Land] tiles"],
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Commando"]
 	},
 	{

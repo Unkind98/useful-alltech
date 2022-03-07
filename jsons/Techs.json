@@ -87,7 +87,8 @@
 				"row": 5,
 				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
 				"uniques": ["Who knows what the future holds?", 
-					"Culture cost of adopting new Policies reduced by [10]%", 
+					//"Culture cost of adopting new Policies reduced by [10]%", 
+					"[-10]% Culture cost of adopting new Policies",
 					"Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			}
