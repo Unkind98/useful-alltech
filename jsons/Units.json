@@ -1,5 +1,6 @@
 [
 	//Mods Units
+
 	{
 		"name": "Crossbowman",
 		"unitType": "Archery",
@@ -19,7 +20,7 @@
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 30,
-		"cost": 2400,
+		"cost": 600,
 		"requiredTech": "Rifling",
 		"promotions": ["Sharpshooter"],
 		/*"uniques": ["[+33]% Strength <when attacking>","Can only attack [Land] units",
