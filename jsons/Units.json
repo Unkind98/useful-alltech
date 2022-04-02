@@ -1,5 +1,6 @@
 [
 	//Mods Units
+
 	{
 		"name": "Crossbowman",
 		"unitType": "Archery",
@@ -19,9 +20,9 @@
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 30,
-		"cost": 225,
+		"cost": 600,
 		"requiredTech": "Rifling",
-		"promotions": ["Sniper Traits"],
+		"promotions": ["Sharpshooter"],
 		/*"uniques": ["[+33]% Strength <when attacking>","Can only attack [Land] units",
 			"[+75]% Strength <vs [Mounted] units> <starting from the [Industrial era]>",
 			"[+75]% Strength <vs [Gunpowder] units> <starting from the [Industrial era]>",
@@ -43,10 +44,10 @@
 		"rangedStrength": 30,
 		"cost": 225,
 		"requiredTech": "Dynamite",
-		"promotions": ["Sapper Traits"],
+		"promotions": ["Sabotage Expert"],
 		/*"uniques": ["May enter foreign tiles without open borders",
 			"[+999]% Strength <vs cities>",
-			"[+999]% Strength <vs [Armor] units> <when attacking>"],*/
+			"[+999]% Strength <vs [Armored] units> <when attacking>"],*/
 		"attackSound": "tankshot"
 	},
 	{
