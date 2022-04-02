@@ -25,14 +25,14 @@ repeat: none
   orig: 100, 100
   offset: 0, 0
   index: -1
- UnitPromotionIcons/Sniper Traits
+ UnitPromotionIcons/Sharpshooter
   rotate: false
   xy: 104, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
- UnitPromotionIcons/Sapper Traits
+ UnitPromotionIcons/Sabotage Expert
   rotate: false
   xy: 204, 4
   size: 100, 100
