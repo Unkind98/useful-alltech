@@ -16,7 +16,7 @@
 	{
 		"name": "Sniper",
 		"unitType": "Commando",
-		"range": 3,
+		"range": 2,
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 30,
